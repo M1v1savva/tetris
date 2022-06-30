@@ -20,3 +20,9 @@ gradlew.bat run
 - Q/E for rotating left/right respectively <br/>
 - SPACE for pentomino drop <br/>
 - UP, DOWN, LEFT and RIGHT for one-cell move in respective direction <br/>
+
+--- 
+
+#### Description:
+
+With this app you can both play tetris yourself and watch the bot play it. The bot is a greedy algorithm based on a linear metric. The weights for the metric were obtained with a built-from-scratch genetic algorithm. To use the app you have to sign up, the app will remember your gamertag.
