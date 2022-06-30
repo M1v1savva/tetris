@@ -3,7 +3,7 @@ This project was completed as a part of Project1-1 within UM DSAI bachelor's pro
 
 ---
 
-#### Run (requires [Java]() installed):
+#### Run (requires [Java](https://www.oracle.com/java/technologies/downloads/#jdk18-linux) installed):
 ```console   
 gradlew.bat run
 ```   
