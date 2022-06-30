@@ -1,4 +1,4 @@
-# This is Tetris + AI made with JavaFX
+# This is Tetris made with JavaFX + Tetris AI
 This project was completed as a part of Project1-1 within UM DSAI bachelor's program.
 
 ---
