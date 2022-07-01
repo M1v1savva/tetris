@@ -271,7 +271,7 @@ public class Home extends javax.swing.JFrame {
      */
     public void enterApp() {
         state = FrontState.MENU;
-        setPreferredSize(new Dimension(1000, 765));
+        setPreferredSize(new Dimension(1000, 750));
         pack();
 
         jPanel1.setVisible(true);
